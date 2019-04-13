@@ -1,7 +1,7 @@
-![]()
+![](https://github.com/dimitreOliveira/Jigsaw-UnintendedBiasInToxicityClassification/blob/master/Assets/logo.png)
 
 ## About the repository
-The goal of this repository is to use ...
+The goal of this repository is to ...
 
 ### Our team published Kaggle kernels:
 - []()
