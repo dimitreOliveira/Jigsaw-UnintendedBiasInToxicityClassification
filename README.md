@@ -4,7 +4,7 @@
 The goal of this repository is to ...
 
 ### Our team published Kaggle kernels:
-- []()
+- [Toxicity Bias - extensive EDA and Bi LSTM](https://www.kaggle.com/dimitreoliveira/toxicity-bias-extensive-eda-and-bi-lstm)
 
 ### What you will find
 - ??? [[link]]()
