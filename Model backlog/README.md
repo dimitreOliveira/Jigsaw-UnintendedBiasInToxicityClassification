@@ -11,6 +11,6 @@
 
 - ### Deep Learning
 
-|Model|Train|Validation|Pb Leaderboard|Pv Leaderboard|Runtime(s)|Link|
-|-----|-----|----------|--------------|--------------|---------|-----|
-|[1st] - Model 1|???|???|???|???|???|[Link]()|
+|Model|Train|Validation|Pb Leaderboard|Pv Leaderboard|Runtime(s)|
+|-----|-----|----------|--------------|--------------|----------|
+|[1st] - Model 1|???|???|???|???|???|
