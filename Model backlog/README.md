@@ -13,4 +13,4 @@
 
 |Model|Train|Validation|Pb Leaderboard|Pv Leaderboard|Runtime(s)|
 |-----|-----|----------|--------------|--------------|----------|
-|[1st] - Model 1|???|???|???|???|???|
+|[1st] Bi GRU - Baseline|0.91|0.89|0.89316|???|1145|
