@@ -11,6 +11,8 @@
   - [Benchmark kernel](https://www.kaggle.com/dborkan/benchmark-kernel#Create-a-text-tokenizer)
   - [Improve your Score with some Text Preprocessing](https://www.kaggle.com/theoviel/improve-your-score-with-some-text-preprocessing)
   - [How to: Preprocessing when using embeddings](https://www.kaggle.com/christofhenkel/how-to-preprocessing-when-using-embeddings)
+  - [A look at different embeddings.!](https://www.kaggle.com/sudalairajkumar/a-look-at-different-embeddings)
+  - [How Word Embeddings Influence Bias](https://www.kaggle.com/nholloway/how-word-embeddings-influence-bias)
  
 - ### Content:
   - [Getting Started Guide For NLP Competitions](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/87868#latest-519691)
