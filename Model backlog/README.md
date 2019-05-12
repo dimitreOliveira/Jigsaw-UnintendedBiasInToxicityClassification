@@ -36,3 +36,11 @@
 |[23th] Bi GRU - Lower|0.9118|0.9084|0.90741|???|4918.4|
 |[24th] Bi GRU - Map and replace preprocess|0.9129|0.9092|0.90827|???|5077.7|
 |[25th] Bi GRU - Map and replace preprocess2|0.9119|0.9084|0.90753|???|5387.8|
+|[26th] Bi GRU - GloVe|0.9122|0.9100|0.90751|???|4606.7|
+|[27th] Bi GRU - GloVe Freezed|0.9111|0.9087|0.90734|???|4741.4|
+|[28th] Bi GRU - WikiNews|0.9107|0.9083|0.90735|???|4919.7|
+|[29th] Bi GRU - FastText|0.9122|0.9092|0.90853|???|4728.4|
+|[30th] Bi GRU - GloVe & WikiNews|0.9134|0.9107|0.90883|???|5604.1|
+|[31th] Bi GRU - GloVe & FastTextCraw|0.9127|0.9100|0.90778|???|4443.5|
+|[32th] Bi GRU - FastTextCraw & WikiNews|0.9124|0.9094|0.90784|???|5503.3|
+|[33th] Bi GRU - GloVe, FastTextCraw & WikiNews|0.9135|0.9105|0.90791|???|6000.3|
