@@ -44,3 +44,15 @@
 |[31th] Bi GRU - GloVe & FastTextCraw|0.9127|0.9100|0.90778|???|4443.5|
 |[32th] Bi GRU - FastTextCraw & WikiNews|0.9124|0.9094|0.90784|???|5503.3|
 |[33th] Bi GRU - GloVe, FastTextCraw & WikiNews|0.9135|0.9105|0.90791|???|6000.3|
+|[34th] Bi GRU - Craw, GloVe|0.9141|0.9110|0.90825|???|5518.2|
+|[35th] Bi GRU - Craw, GloVe - Param tunning|0.9079|0.9075|0.90674|???|6631|
+|[36th] Bi GRU - Craw, GloVe - Model tunning|0.7815|0.7814|0.78170|???|6121.2|
+|[37th] Bi LSTM - Craw, GloVe - Model tunning|0.8867|0.8866|0.88566|???|6428.3|
+|[38th] Bi GRU - Craw, GloVe - Adam|0.9284|0.9257|0.92405|???|6886.6|
+|[39th] Bi LSTM - Craw, GloVe - Adam|0.9327|0.9296|0.92740|???|6669.1|
+
+## Auxiliar data bases
+- [Glove](https://www.kaggle.com/takuok/glove840b300dtxt)
+- [(FastText crawl 300d 2M](https://www.kaggle.com/yekenot/fasttext-crawl-300d-2m)
+- [fastText English Word Vectors](https://www.kaggle.com/facebook/fasttext-wikinews)
+- [Gensim Word Embeddings](https://www.kaggle.com/iezepov/gensim-embeddings-dataset)
