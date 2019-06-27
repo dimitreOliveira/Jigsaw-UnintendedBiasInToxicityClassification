@@ -7,7 +7,11 @@ The goal of this repository is to ...
 - [Toxicity Bias - extensive EDA and Bi LSTM](https://www.kaggle.com/dimitreoliveira/toxicity-bias-extensive-eda-and-bi-lstm)
 
 ### What you will find
-- ??? [[link]]()
+- Documentation [[link]](https://github.com/dimitreOliveira/Jigsaw-UnintendedBiasInToxicityClassification/tree/master/Documentation)
+  - Project working cycle and effort, relevant content and insights [[link]](https://github.com/dimitreOliveira/Jigsaw-UnintendedBiasInToxicityClassification/blob/master/Documentation/Planning.md)
+- EDA [[link]](https://github.com/dimitreOliveira/Jigsaw-UnintendedBiasInToxicityClassification/tree/master/EDA)
+  - Toxicity Bias - extensive EDA and Bi LSTM [[link]](https://github.com/dimitreOliveira/Jigsaw-UnintendedBiasInToxicityClassification/blob/master/EDA/Toxicity%20Bias%20-%20extensive%20EDA%20and%20Bi%20LSTM.ipynb)
+- Models & Auxiliar data bases [[link]](https://github.com/dimitreOliveira/Jigsaw-UnintendedBiasInToxicityClassification/tree/master/Model%20backlog)
 
 ### Jigsaw Unintended Bias in Toxicity Classification
 #### Detect toxicity across a diverse range of conversations
@@ -30,10 +34,3 @@ Disclaimer: The dataset for this competition contains text that may be considere
 
 ### Acknowledgments
 The Conversation AI team would like to thank Civil Comments for making this dataset available publicly and the [Online Hate Index Research Project](http://dh.berkeley.edu/projects/online-hate-index-ohi-research-project?utm_source=BCNM+Subscribers&utm_campaign=d5d78bba5e-natasha-schull-oct12_COPY_01&utm_medium=email&utm_term=0_eb59bfff9e-d5d78bba5e-281420185) at [D-Lab](https://dlab.berkeley.edu/), University of California, Berkeley, whose labeling survey/instrument informed the dataset labeling. We'd also like to thank everyone who has contributed to Conversation AI's research, especially those who took part in our last competition, the success of which led to the creation of this challenge.
-
-### Dependencies by folder:
-- General
-  - [Python 3.x](https://www.python.org/)
-    
-### TODO (in case anyone wants to continue this work):
-- ???

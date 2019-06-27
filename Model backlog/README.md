@@ -16,7 +16,7 @@
 |[3rd] GRU - Baseline|0.9031|0.8895|0.88608|???|804.3|
 |[4th] LSTM - Baseline|0.9008|0.8880|0.88671|???|808.5|
 |[5th] Bi GRU - maxlen 200|0.9005|0.8853|0.88247|???|1589.9|
-|[6th] Bi GRU - maxlen 250|0.9076|0.8959|0.89349|000|1601.9|
+|[6th] Bi GRU - maxlen 250|0.9076|0.8959|0.89349|???|1601.9|
 |[7th] Bi GRU - max_features 35000|0.9065|0.8942|0.88997|???|1084.4|
 |[8th] Bi GRU - max_features 40000|0.9044|0.8918|0.89229|???|1084.7|
 |[9th] Bi GRU - max_features 45000|0.9059|0.8938|0.89096|???|1088.5|
@@ -53,6 +53,6 @@
 
 ## Auxiliar data bases
 - [Glove](https://www.kaggle.com/takuok/glove840b300dtxt)
-- [(FastText crawl 300d 2M](https://www.kaggle.com/yekenot/fasttext-crawl-300d-2m)
+- [FastText crawl 300d 2M](https://www.kaggle.com/yekenot/fasttext-crawl-300d-2m)
 - [fastText English Word Vectors](https://www.kaggle.com/facebook/fasttext-wikinews)
 - [Gensim Word Embeddings](https://www.kaggle.com/iezepov/gensim-embeddings-dataset)
