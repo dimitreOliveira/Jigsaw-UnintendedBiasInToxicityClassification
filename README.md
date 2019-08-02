@@ -1,7 +1,7 @@
 ![](https://github.com/dimitreOliveira/Jigsaw-UnintendedBiasInToxicityClassification/blob/master/Assets/logo.png)
 
 ## About the repository
-The goal of this repository is to use this competition database to develop MLP models to process text data, using different approaches like complex deep learning models (LSTM & GRU), also leverage the models with pre-trained models, like embeddings (Word2Vec, GloVe, etc). Also as the competition goal, elaborate models and reprocess data in a way that can reduce bias in various contexts, like gender or religion.
+The goal of this repository is to use this competition database to develop NLP models to process text data, using different approaches like complex deep learning models (LSTM & GRU), also leverage the models with pre-trained models, like embeddings (Word2Vec, GloVe, etc). Also as the competition goal, elaborate models and reprocess data in a way that can reduce bias in various contexts, like gender or religion.
 
 ### Our team published Kaggle kernels:
 - [Toxicity Bias - extensive EDA and Bi LSTM](https://www.kaggle.com/dimitreoliveira/toxicity-bias-extensive-eda-and-bi-lstm)
